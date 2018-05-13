@@ -1,0 +1,10 @@
+# Idea
+*.iml
+.idea
+out
+
+# Maven
+target
+
+# Allure
+.allure
